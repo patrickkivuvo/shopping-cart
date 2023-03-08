@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Jay = (props) => {
+const Pato = (props) => {
     return (
         <div className="card">
             <img src={props.img}/>
@@ -13,4 +13,4 @@ const Jay = (props) => {
     );
 };
 
-export default Jay;
+export default Pato;

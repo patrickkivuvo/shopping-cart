@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import App from './App';
 
-class JayMoh extends React.Component{
+class Pato extends React.Component{
   render(){
     return(
       <div>
@@ -12,6 +12,6 @@ class JayMoh extends React.Component{
     )
   }
 }
-ReactDOM.render(<JayMoh/>,document.getElementById('root'))
+ReactDOM.render(<Pato/>,document.getElementById('root'))
 
 
